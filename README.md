@@ -1,2 +1,1 @@
-The site can be accessed here:
-[Example Site](https://creativemonkeyllc.github.io/example-contractor-1/)
+The site can be accessed here: [Example Contractor 1](https://creativemonkeyllc.github.io/example-contractor-1/)
